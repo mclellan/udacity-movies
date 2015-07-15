@@ -1,10 +1,10 @@
 # udacity-movies
 Udacity movies website.
 
-Get latest revision: <br>
+#####Get latest revision: <br>
   https://github.com/mclellan/udacity-movies/archive/master.zip
   
-<h5>Contents:</h5>
+#####Contents:
 ```
    README.rnd
    fresh_tomatoes.py
@@ -13,7 +13,8 @@ Get latest revision: <br>
 ```
 
 <br><br>
-<h5>Requirements:</h5>
+#####Requirements:
   Python 2.7
 
+#####Quickstart:
 Run entertainment_center.py to generate a quick movie website.
