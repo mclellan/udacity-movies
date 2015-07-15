@@ -16,4 +16,4 @@ Udacity movies website.
   Python 2.7
 <br><br>
 #####Quickstart:
-> Run entertainment_center.py to generate a quick movie website.
+Run entertainment_center.py to generate a quick movie website.
