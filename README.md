@@ -3,7 +3,7 @@ Udacity movies website.
 
 #####Get latest revision:
   https://github.com/mclellan/udacity-movies/archive/master.zip
-
+<br>
 #####Contents:
 ```
    README.rnd
@@ -12,9 +12,9 @@ Udacity movies website.
    media.py
 ```
 
-<br><br>
+<br>
 #####Requirements:
   Python 2.7
-
+<br>
 #####Quickstart:
 > Run entertainment_center.py to generate a quick movie website.
